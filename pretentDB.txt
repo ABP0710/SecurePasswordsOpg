@@ -1,0 +1,3 @@
+Password from the Class: 
+Salt = FR92wpLxYLRmCigHIZyNgz+KNaWYXs0oKtklY16KdMQ=
+Hash = jPdaMSEh6ByRSEyb+qvozUaqkVgh6ts3rz28Hu4iFpw=
